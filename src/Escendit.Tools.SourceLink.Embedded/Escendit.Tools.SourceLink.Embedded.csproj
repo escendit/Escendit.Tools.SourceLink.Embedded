@@ -6,7 +6,7 @@
         <IsPackable>true</IsPackable>
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-        <Description>Provides Embedded type of properties for SourceLink to simplify the process of integrating SourceLink into your project.</Description>
+        <Description>Provides properties for SourceLink to simplify the process of embedding symbols.</Description>
         <PackageTags>sourcelink;embed;embedded;pdb;symbols;defaults</PackageTags>
     </PropertyGroup>
     <ItemGroup>
