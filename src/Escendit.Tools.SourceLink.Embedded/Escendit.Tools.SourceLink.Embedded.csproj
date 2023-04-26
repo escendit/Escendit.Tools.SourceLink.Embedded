@@ -10,10 +10,7 @@
         <PackageTags>sourcelink;embed;embedded;pdb;symbols;defaults</PackageTags>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Escendit.Tools.SourceLink.Common" Version="0.1.0-rc.14">
-            <PrivateAssets>runtime; build; native; contentfiles</PrivateAssets>
-            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-        </PackageReference>
+        <PackageReference Include="Escendit.Tools.SourceLink.Common" Version="0.4.0" />
     </ItemGroup>
     <ItemGroup>
         <!-- TFM -->
